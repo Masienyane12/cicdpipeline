@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.Map;
-
+//cicdpipeline-service-role
 @RestController
 @RequestMapping(path = "/test")
 public class TestController {
